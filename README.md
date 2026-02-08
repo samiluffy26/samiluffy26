@@ -6,7 +6,7 @@
 
 ## About Me
 
-Senior full-stack engineer specializing in scalable system architecture and cutting-edge web technologies. I build robust, performant applications across the entire stack, with a focus on clean architecture patterns and modern development practices.
+Junior full-stack engineer specializing in scalable system architecture and cutting-edge web technologies. I build robust, performant applications across the entire stack, with a focus on clean architecture patterns and modern development practices.
 
 **Core Expertise:**
 - System design and microservices architecture
