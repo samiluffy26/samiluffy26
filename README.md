@@ -1,6 +1,6 @@
 # Samuel Isaías Guance Santi
 
-**Full-Stack Engineer** | System Architecture & Modern Web Technologies
+**Full-Stack Developer** | System Architecture & Modern Web Technologies
 
 ---
 
