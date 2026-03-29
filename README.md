@@ -1,3 +1,4 @@
+
 # Samuel Isaías Guance Santi
 
 **Full-Stack Developer** | System Architecture & Modern Web Technologies
@@ -16,6 +17,9 @@ Junior full-stack engineer specializing in scalable system architecture and cutt
 - API design and integration patterns
 
 ---
+
+## GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samiluffy26&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Tech Stack
 
@@ -58,7 +62,6 @@ Junior full-stack engineer specializing in scalable system architecture and cutt
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Azure" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="AWS" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored-dark.svg" alt="GCP" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="40" height="40" />
 </p>
 
